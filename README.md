@@ -1,2 +1,3 @@
 # Glue
 Learnings and useful stuff
+This repository provides Code examples written in Python,Spark-Scala using primarily boto3 SDK API methods and aws cli examples for majority of the AWS Big Data services. There are also nicley written Wiki articles for most of the common issues/challenges faced within BigData world.It has multiple core concepts related to DynamoDB, EMR, Glue, SageMaker, Apache Spark, Hive on Tez, Athena, AWS Lambda and Spark/Glue optimization techniques,75+ PySpark scripts (coding examples ) for recurrent issues that I dealt with related to AWS Glue/EMR/AWS Lambda till date in support engineering.
